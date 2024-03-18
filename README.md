@@ -2,7 +2,7 @@
 
 ## 바로가기
 
-배포 :
+배포 :https://clone-hansalim-zuicy.vercel.app/
 
 ## 정보
 
@@ -19,3 +19,4 @@
 - HTML
 - CSS
 - JS
+- Swiper.js
