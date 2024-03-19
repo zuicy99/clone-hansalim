@@ -20,3 +20,7 @@
 - CSS
 - JS
 - Swiper.js
+- Anime.js
+- normalize.css
+- font-awesome.css
+- smooth-scrollbar.js
